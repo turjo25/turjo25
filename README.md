@@ -34,11 +34,11 @@ Here are some of the technologies and skills I have experience with:
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-![Md. Shardul Rahman Turjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![turjo25 GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
----
+--- -->
 
 <!-- ## 📂 Featured Projects
 
