@@ -16,9 +16,9 @@ I’m a passionate software engineering student with a focus on creating efficie
   - **Frameworks:** [React, Node.js, Django, etc.]
   - **Tools:** [Git, Docker, VS Code, etc.]
 - 💡 **Open to:** Internships, project collaborations, and learning opportunities. -->
-- 📫 **Reach me at:** [Email] | [LinkedIn] | 
+- 📫 **Reach me at:** [📧] | [] | 
 <!-- [Portfolio (if available)] -->
-[Email]:turjorahman556@gmail.com
+[📧]:turjorahman556@gmail.com
 [LinkedIn]:https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263
 ---
 
@@ -56,7 +56,10 @@ Feel free to check out my repositories to see more of my work!
 
 ## 🌍 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263](#)
-- **Email:** [turjorahman556@gmail.com](#)
+<!-- - **LinkedIn:** [https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263](#)
+- **Email:** [turjorahman556@gmail.com](#) -->
+
+<a href="www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="social-linkedin.svg" width="70" height="70" title="LinkedIn Profile link" ></a>
+<a href="turjorahman556@gmail.com"><img src="gmail.svg" width="70" height="70" title="Gmail" ></a>
 
 Thanks for visiting my GitHub profile! 😊
