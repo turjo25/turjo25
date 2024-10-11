@@ -10,23 +10,28 @@
 
 I’m a passionate software engineering student with a focus on creating efficient, scalable, and user-friendly applications. My interests lie in full-stack development, data structures, algorithms, and problem-solving. I am constantly learning new technologies and looking for opportunities to improve my skills and contribute to meaningful projects.
 
-- 🌱 **Currently learning:** [Programmig language like : C, C++, Java, Python, OOP in Python and Java]
+- 🌱 **Currently learning:**   
+ 
+  C++  
+   Java  
+    Python  
+     OOP in Python and Java
+
 <!-- - 🛠️ **Languages & Tools:**  
   - **Languages:** [List key programming languages (e.g., Python, Java, JavaScript, etc.)]
   - **Frameworks:** [React, Node.js, Django, etc.]
   - **Tools:** [Git, Docker, VS Code, etc.]
 - 💡 **Open to:** Internships, project collaborations, and learning opportunities. -->
-- 📫 **Reach me at:** [📧] | [] | 
+- 📫 **Reach me at:** | <a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="social-linkedin.svg" width="30" height="20" title="LinkedIn Profile link" ></a> | 
+<a href="https://turjorahman556@gmail.com"><img src="gmail.svg" width="30" height="20" title="Gmail" ></a> |
 <!-- [Portfolio (if available)] -->
-[📧]:turjorahman556@gmail.com
-[LinkedIn]:https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263
----
+
 
 ## 🔥 My Skills
 
 Here are some of the technologies and skills I have experience with:
 
-- **Programming Languages:** Python,Java, C++
+- **Programming Languages:** Python,Java,C,C++
 - **Web Development:** HTML, CSS
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
