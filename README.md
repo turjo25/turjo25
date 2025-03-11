@@ -24,8 +24,8 @@ I’m a passionate software engineering student with a focus on creating efficie
 - 💡 **Open to:** Internships, project collaborations, and learning opportunities. -->
 - 📫 **Reach me at:** <!--| <a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="social-linkedin.svg" width="30" height="20" title="LinkedIn Profile link" ></a> | 
 <a href="https://turjorahman556@gmail.com"><img src="gmail.svg" width="30" height="20" title="Gmail" ></a> | -->
- | <a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="20"></a> | 
-<a href="https://turjorahman556@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="20"></a> |
+ | <a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" title="LinkedIn"></a> | 
+<a href="https://turjorahman556@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" title="Gmail"></a> |
 <!-- [Portfolio (if available)] -->
 
 
