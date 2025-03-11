@@ -22,8 +22,10 @@ I’m a passionate software engineering student with a focus on creating efficie
   - **Frameworks:** [React, Node.js, Django, etc.]
   - **Tools:** [Git, Docker, VS Code, etc.]
 - 💡 **Open to:** Internships, project collaborations, and learning opportunities. -->
-- 📫 **Reach me at:** | <a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="social-linkedin.svg" width="30" height="20" title="LinkedIn Profile link" ></a> | 
-<a href="https://turjorahman556@gmail.com"><img src="gmail.svg" width="30" height="20" title="Gmail" ></a> |
+- 📫 **Reach me at:** <!--| <a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="social-linkedin.svg" width="30" height="20" title="LinkedIn Profile link" ></a> | 
+<a href="https://turjorahman556@gmail.com"><img src="gmail.svg" width="30" height="20" title="Gmail" ></a> | -->
+ | <a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="20"></a> | 
+<a href="https://turjorahman556@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="20"></a> |
 <!-- [Portfolio (if available)] -->
 
 
