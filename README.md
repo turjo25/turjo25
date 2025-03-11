@@ -66,7 +66,7 @@ Feel free to check out my repositories to see more of my work!
 <!-- - **LinkedIn:** [https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263](#)
 - **Email:** [turjorahman556@gmail.com](#) -->
 
-<a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="social-linkedin.svg" width="70" height="70" title="LinkedIn Profile link" ></a>
-<a href="https://turjorahman556@gmail.com"><img src="gmail.svg" width="70" height="70" title="Gmail" ></a>
+<a href="https://www.linkedin.com/in/md-shardul-rahman-turjo-a90350263"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" title="LinkedIn"></a> | 
+<a href="https://turjorahman556@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" title="Gmail"></a> 
 
 Thanks for visiting my GitHub profile! 😊
