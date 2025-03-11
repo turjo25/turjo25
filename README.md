@@ -31,7 +31,7 @@ I’m a passionate software engineering student with a focus on creating efficie
 
 Here are some of the technologies and skills I have experience with:
 
-- **Programming Languages:** Python,Java,C,C++
+- **Programming Languages:** Python,Java,C,C++,Java-Script
 - **Web Development:** HTML, CSS
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
